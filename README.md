@@ -1,4 +1,3 @@
-<h1 align="left">Otávio Dias</h1>
 
 ###
 
